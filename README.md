@@ -37,7 +37,7 @@ It is understood that each place numbered from 0 to 7 and mapped on x axis like 
 
 A **Tron** from **tron_digits.py** must be initialised to use the provided functions.
 
-It fairly simple, first we need an instance of the charaters lcd's operation class, lets assume it's called ```lcd```. Now we just initialise aour class like this
+It is fairly simple, first we need an instance of the charaters lcd's operation class, lets assume it's called ```lcd```. Now we just initialise aour class like this
 
 ``` python
 from tron_digits import Tron
