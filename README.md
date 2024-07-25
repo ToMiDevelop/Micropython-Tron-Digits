@@ -3,11 +3,11 @@ A MicroPython application of Tron digits for charcter lcd's.
 
 ## 1. Prerequisites
 
-This module is designed to be used with MicroPython on boards capable of using i2c communication protocol. So it can be freely used on example on
+This module is designed to be used with MicroPython on boards capable of using i2c communication protocol. So it can be freely used on: 
 
 - Parpberry Pi Pico / Pico W,
 - other RP2040 based boards
-- ESP32 chps family based boards,
+- ESP32 chips' family based boards,
 - ESP82866 based boards,
 - others supporting MicroPython and I2C communication.
 
